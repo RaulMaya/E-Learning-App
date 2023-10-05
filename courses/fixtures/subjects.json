@@ -1,0 +1,58 @@
+[
+{
+  "model": "courses.subject",
+  "pk": 1,
+  "fields": {
+    "title": "Fundamental Python Coding",
+    "slug": "fundamental-python-coding"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 2,
+  "fields": {
+    "title": "Proficient Python Scripting",
+    "slug": "proficient-python-scripting"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 3,
+  "fields": {
+    "title": "Analyzing Data with Python",
+    "slug": "analyzing-data-with-python"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 4,
+  "fields": {
+    "title": "Web Development using Python",
+    "slug": "web-development-using-python"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 5,
+  "fields": {
+    "title": "Python-Powered Automation",
+    "slug": "python-powered-automation"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 6,
+  "fields": {
+    "title": "Web Scraping with Python",
+    "slug": "web-scraping-with-python"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 7,
+  "fields": {
+    "title": "Gaming Creation with Python",
+    "slug": "gaming-creation-with-python"
+  }
+}
+]
